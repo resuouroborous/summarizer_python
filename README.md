@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
-1. Clone this repository: git clone [https://github.com/resuouroborous/python_assignment.git](https://github.com/resuouroborous/python_assignment.git)
+1. Clone this repository: git clone [https://github.com/resuouroborous/python_assignment.git](https://github.com/resuouroborous/summarizer_python.git)
 
 2. Install the required Python packages:
    pip install click requests
